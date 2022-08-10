@@ -1,4 +1,1 @@
-const prompt = require('prompt-sync')()
-
-let c = prompt()
-console.log(`Seu nome é ${c}`)
+const input = require('prompt-sync')()
